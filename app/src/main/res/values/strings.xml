@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Quiz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="share">Share result</string>
+    <string name="restart">Restart</string>
+    <string name="close">Close</string>
+    <string name="question_label" formatted="true">Question %1$s</string>
+    <string name="submit_label">Submit</string>
 </resources>
